@@ -2,5 +2,5 @@
 layout: slide
 Title: " Welcome to our secound goofy slide!"
 ---
-Your t88t
+"haha joke on you"
 use the left arrows to go back!
